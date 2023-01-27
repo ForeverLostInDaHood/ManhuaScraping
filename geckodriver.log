@@ -1,0 +1,1038 @@
+1668962543245	geckodriver	INFO	Listening on 127.0.0.1:37491
+1668962543734	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--window-size=1920,1200" "--enable-javascript" "--remote-debugging-port" "53515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQPRPHQ"
+*** You are running in headless mode.
+Gtk-Message: 17:42:23.752: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1668962543947	Marionette	INFO	Marionette enabled
+1668962543949	Marionette	INFO	Listening on port 44785
+WebDriver BiDi listening on ws://127.0.0.1:53515
+Read port: 44785
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+1668962544140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQPRPHQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53515/devtools/browser/ee2d523c-7837-4470-aa24-d799dd0a3ded
+1668962591484	geckodriver	INFO	Listening on 127.0.0.1:33985
+1668962591961	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--window-size=1920,1200" "--enable-javascript" "--remote-debugging-port" "41599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiled3cceH"
+*** You are running in headless mode.
+Gtk-Message: 17:43:11.977: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1668962592169	Marionette	INFO	Marionette enabled
+1668962592171	Marionette	INFO	Listening on port 42105
+WebDriver BiDi listening on ws://127.0.0.1:41599
+Read port: 42105
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+1668962592378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled3cceH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41599/devtools/browser/606c9965-8456-4a2e-bb4a-143be8333fd1
+1668962653638	geckodriver	INFO	Listening on 127.0.0.1:51519
+1668962654125	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--window-size=1920,1200" "--enable-javascript" "--remote-debugging-port" "58499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledMhPn6"
+*** You are running in headless mode.
+Gtk-Message: 17:44:14.140: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1668962654347	Marionette	INFO	Marionette enabled
+1668962654349	Marionette	INFO	Listening on port 38601
+WebDriver BiDi listening on ws://127.0.0.1:58499
+Read port: 38601
+1668962654594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledMhPn6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58499/devtools/browser/4480b2bc-86dd-40dd-b516-a57a816e815f
+1668962693769	geckodriver	INFO	Listening on 127.0.0.1:44769
+1668962694257	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--window-size=1920,1200" "--enable-javascript" "--remote-debugging-port" "43023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesEDNOo"
+Gtk-Message: 17:44:54.272: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1668962694686	Marionette	INFO	Marionette enabled
+1668962694689	Marionette	INFO	Listening on port 33193
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 33193
+WebDriver BiDi listening on ws://127.0.0.1:43023
+1668962694796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesEDNOo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43023/devtools/browser/6dbe104d-e9a2-49ee-b2cc-fab3f316ace1
+JavaScript warning: https://1stkissmanga.io/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 48: unreachable code after return statement
+JavaScript error: https://asura.gg/manga/talent-swallowing-magician/, line 94: SyntaxError: invalid escape sequence
+JavaScript warning: https://cdn.intergient.com/pageos/1.9.5/videoCard.01fa78e7064a386f48fc.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 218: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668962851187	Marionette	INFO	Stopped listening on port 33193
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674722095203	geckodriver	INFO	Listening on 127.0.0.1:47487
+1674722095782	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--window-size=1920,1200" "--enable-javascript" "--remote-debugging-port" "56581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5Ct4Op"
+Gtk-Message: 09:34:55.800: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674722096355	Marionette	INFO	Marionette enabled
+1674722096358	Marionette	INFO	Listening on port 35315
+Read port: 35315
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:56581
+1674722096491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5Ct4Op/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56581/devtools/browser/a5d5d352-e10b-4216-bb7f-90ae0b357f65
+JavaScript warning: https://1stkissmanga.io/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 48: unreachable code after return statement
+JavaScript error: https://www.asurascans.com/manga/1672760368-talent-swallowing-magician/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 333 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 4351 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-regressor-instruction-manual/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 657 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 1415 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-legendary-youngest-son-of-the-marquis-house-manhwa/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-damn-reincarnation/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5036 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-reaper-of-the-drifting-moon/, line 81: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-my-daughter-is-a-dragon/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-duke-pendragon/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-heavenly-inquisition-sword/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 2346 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-existence/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722129085	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674722130487	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 471 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-youngest-scion-of-the-mages/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-genius-of-the-unique-lineage/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 3715 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-tutorial-is-too-hard/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722139548	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674722139549	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5621 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-overpowered-sword/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 1046 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-standard-of-reincarnation/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-archmage-transcending-through-regression/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722147631	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.asurascans.com/manga/1672760368-i-obtained-a-mythic-item/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-player-who-returned-10000-years-later/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5119 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-my-daughter-is-the-final-boss/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-hero-returns/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-swordmasters-youngest-son/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722163334	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.asurascans.com/manga/1672760368-on-my-way-to-kill-god/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-worthless-regression/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 4361 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-transmigrating-to-the-otherworld-once-more/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V3SsRWZOfA-pKEWNVYsb3GaVjAUiaK0X1iPK6a1PXlU.js line 2 > eval line 7670 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 6648 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-reformation-of-the-deadbeat-noble/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722175125	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674722175239	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://www.asurascans.com/manga/1672760368-ending-maker/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-solo-max-level-newbie/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-greatest-estate-developer/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-kill-the-dragon/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-never-die-extra/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 4373 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 3474 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-villain-to-kill/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://c.disquscdn.com/next/recommendations/common.bundle.ee9c33b24a56672a5987fadb46fbba34.js, line 9: TypeError: h.lounge is undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-max-level-hero-has-returned/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5194 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-return-of-the-8th-class-magician/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 2276 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674722200263	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V3SsRWZOfA-pKEWNVYsb3GaVjAUiaK0X1iPK6a1PXlU.js line 2 > eval line 2315 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-absolute-sword-sense/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722201724	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.asurascans.com/manga/1672760368-return-of-the-mount-hua-sect/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-legend-of-asura-the-venom-dragon/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-reincarnation-of-the-suicidal-battle-god/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 6176 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-trash-of-the-counts-family/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722209422	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-dark-magician-transmigrates-after-66666-years/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-second-coming-of-gluttony/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V3SsRWZOfA-pKEWNVYsb3GaVjAUiaK0X1iPK6a1PXlU.js line 2 > eval line 2172 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5272 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5749 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-time-of-the-terminally-ill-extra/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722220488	Marionette	INFO	Stopped listening on port 35315
+1674722732457	geckodriver	INFO	Listening on 127.0.0.1:43305
+1674722732510	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--window-size=1920,1200" "--enable-java ... pt" "--remote-debugging-port" "45185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileN2jQSR"
+*** You are running in headless mode.
+Gtk-Message: 09:45:32.539: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1674722732786	Marionette	INFO	Marionette enabled
+1674722732788	Marionette	INFO	Listening on port 36759
+Read port: 36759
+WebDriver BiDi listening on ws://127.0.0.1:45185
+1674722732874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN2jQSR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45185/devtools/browser/459f7b81-9b55-403b-951d-d4bfd45b633d
+JavaScript warning: https://1stkissmanga.io/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 48: unreachable code after return statement
+JavaScript error: https://www.asurascans.com/manga/1672760368-talent-swallowing-magician/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 6243 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-regressor-instruction-manual/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-legendary-youngest-son-of-the-marquis-house-manhwa/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-damn-reincarnation/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 236 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-reaper-of-the-drifting-moon/, line 81: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 6120 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-my-daughter-is-a-dragon/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 3635 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 7784 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-duke-pendragon/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 84 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-heavenly-inquisition-sword/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-existence/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 4859 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-youngest-scion-of-the-mages/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-genius-of-the-unique-lineage/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-tutorial-is-too-hard/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-overpowered-sword/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-standard-of-reincarnation/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-archmage-transcending-through-regression/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 4183 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-i-obtained-a-mythic-item/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722791285	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 1439 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 3903 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-player-who-returned-10000-years-later/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 1330 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 1500 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-my-daughter-is-the-final-boss/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V3SsRWZOfA-pKEWNVYsb3GaVjAUiaK0X1iPK6a1PXlU.js line 2 > eval line 1554 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20230123_RC00/outstream.min.js, line 700: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+JavaScript warning: https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20230123_RC00/outstream.min.js, line 700: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V3SsRWZOfA-pKEWNVYsb3GaVjAUiaK0X1iPK6a1PXlU.js line 2 > eval line 2516 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5264 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 637 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-hero-returns/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-swordmasters-youngest-son/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-on-my-way-to-kill-god/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-worthless-regression/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722814808	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674722814808	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 4554 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 2854 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-transmigrating-to-the-otherworld-once-more/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 1046 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-reformation-of-the-deadbeat-noble/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5181 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 3339 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-ending-maker/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5961 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-solo-max-level-newbie/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 249 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-greatest-estate-developer/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-kill-the-dragon/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://c.disquscdn.com/next/recommendations/common.bundle.ee9c33b24a56672a5987fadb46fbba34.js, line 9: TypeError: h.lounge is undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-never-die-extra/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-villain-to-kill/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722847898	geckodriver	INFO	Listening on 127.0.0.1:50555
+1674722848354	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--window-size=1920,1200" "--enable-java ... pt" "--remote-debugging-port" "39429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3A4PVU"
+*** You are running in headless mode.
+Gtk-Message: 09:47:28.372: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1674722848575	Marionette	INFO	Marionette enabled
+1674722848577	Marionette	INFO	Listening on port 33731
+WebDriver BiDi listening on ws://127.0.0.1:39429
+Read port: 33731
+1674722848813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3A4PVU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39429/devtools/browser/d6cf7a02-bbc8-47a3-935e-909d32dc18b1
+JavaScript warning: https://1stkissmanga.io/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 48: unreachable code after return statement
+JavaScript error: https://www.asurascans.com/manga/1672760368-talent-swallowing-magician/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 4646 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-regressor-instruction-manual/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722864385	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 1453 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 7803 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-legendary-youngest-son-of-the-marquis-house-manhwa/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-damn-reincarnation/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 2189 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 7512 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-reaper-of-the-drifting-moon/, line 81: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 4906 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V3SsRWZOfA-pKEWNVYsb3GaVjAUiaK0X1iPK6a1PXlU.js line 2 > eval line 5750 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-my-daughter-is-a-dragon/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 619 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V3SsRWZOfA-pKEWNVYsb3GaVjAUiaK0X1iPK6a1PXlU.js line 2 > eval line 7361 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-duke-pendragon/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 3996 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 2107 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-heavenly-inquisition-sword/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722878545	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5812 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-existence/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 6409 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-youngest-scion-of-the-mages/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-genius-of-the-unique-lineage/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-tutorial-is-too-hard/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722885841	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 551 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-overpowered-sword/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-standard-of-reincarnation/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 93 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-archmage-transcending-through-regression/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722892651	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 965 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-i-obtained-a-mythic-item/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 2654 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-player-who-returned-10000-years-later/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-my-daughter-is-the-final-boss/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-hero-returns/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722900402	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 420 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-swordmasters-youngest-son/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 7166 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-on-my-way-to-kill-god/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-worthless-regression/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 7545 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V3SsRWZOfA-pKEWNVYsb3GaVjAUiaK0X1iPK6a1PXlU.js line 2 > eval line 7320 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V3SsRWZOfA-pKEWNVYsb3GaVjAUiaK0X1iPK6a1PXlU.js line 2 > eval line 2889 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V3SsRWZOfA-pKEWNVYsb3GaVjAUiaK0X1iPK6a1PXlU.js line 2 > eval line 3973 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-transmigrating-to-the-otherworld-once-more/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 6109 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-reformation-of-the-deadbeat-noble/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 7591 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V3SsRWZOfA-pKEWNVYsb3GaVjAUiaK0X1iPK6a1PXlU.js line 2 > eval line 4474 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-ending-maker/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 4376 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 6721 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-solo-max-level-newbie/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5021 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-greatest-estate-developer/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-kill-the-dragon/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-never-die-extra/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-villain-to-kill/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-max-level-hero-has-returned/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 1015 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-return-of-the-8th-class-magician/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V3SsRWZOfA-pKEWNVYsb3GaVjAUiaK0X1iPK6a1PXlU.js line 2 > eval line 1225 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 1320 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-absolute-sword-sense/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722941497	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5632 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V3SsRWZOfA-pKEWNVYsb3GaVjAUiaK0X1iPK6a1PXlU.js line 2 > eval line 5921 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-return-of-the-mount-hua-sect/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722943902	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 2492 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-legend-of-asura-the-venom-dragon/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 2076 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V3SsRWZOfA-pKEWNVYsb3GaVjAUiaK0X1iPK6a1PXlU.js line 2 > eval line 2199 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-reincarnation-of-the-suicidal-battle-god/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-trash-of-the-counts-family/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5730 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V3SsRWZOfA-pKEWNVYsb3GaVjAUiaK0X1iPK6a1PXlU.js line 2 > eval line 6486 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-dark-magician-transmigrates-after-66666-years/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 2727 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-second-coming-of-gluttony/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 7078 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-time-of-the-terminally-ill-extra/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674722957911	Marionette	INFO	Stopped listening on port 33731
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674739399802	geckodriver	INFO	Listening on 127.0.0.1:56295
+1674739400262	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--window-size=1920,1200" "--enable-java ... pt" "--remote-debugging-port" "34849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKHzDdZ"
+*** You are running in headless mode.
+Gtk-Message: 14:23:20.280: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1674739400470	Marionette	INFO	Marionette enabled
+1674739400472	Marionette	INFO	Listening on port 34265
+WebDriver BiDi listening on ws://127.0.0.1:34849
+Read port: 34265
+1674739400655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKHzDdZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34849/devtools/browser/6efe2b81-c549-4c35-8da1-ee44d39370ad
+JavaScript warning: https://1stkissmanga.io/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 48: unreachable code after return statement
+JavaScript error: https://www.asurascans.com/manga/1672760368-talent-swallowing-magician/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674739435690	geckodriver	INFO	Listening on 127.0.0.1:55185
+1674739436158	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--window-size=1920,1200" "--enable-java ... pt" "--remote-debugging-port" "41339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenyf2wJ"
+*** You are running in headless mode.
+Gtk-Message: 14:23:56.174: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1674739436356	Marionette	INFO	Marionette enabled
+1674739436358	Marionette	INFO	Listening on port 46417
+Read port: 46417
+WebDriver BiDi listening on ws://127.0.0.1:41339
+1674739436429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenyf2wJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41339/devtools/browser/1b0ead9f-aa89-4d33-be93-d92667f43929
+JavaScript warning: https://1stkissmanga.io/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 48: unreachable code after return statement
+JavaScript error: https://www.asurascans.com/manga/1672760368-talent-swallowing-magician/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CVWD2nJNUzbSofuWlZwBPxvQXb897jpMaT8Oq2Cr1NY.js line 2 > eval line 3214 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-regressor-instruction-manual/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674776619132	geckodriver	INFO	Listening on 127.0.0.1:57171
+1674776619577	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--window-size=1920,1200" "--enable-java ... pt" "--remote-debugging-port" "34527" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4rw3uF"
+*** You are running in headless mode.
+Gtk-Message: 00:43:39.622: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1674776620043	Marionette	INFO	Marionette enabled
+1674776620046	Marionette	INFO	Listening on port 46257
+Read port: 46257
+WebDriver BiDi listening on ws://127.0.0.1:34527
+1674776620152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4rw3uF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34527/devtools/browser/060901e4-6a11-4299-b242-83cdf0e77e0a
+JavaScript warning: https://1stkissmanga.io/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 48: unreachable code after return statement
+JavaScript error: https://www.asurascans.com/manga/1672760368-talent-swallowing-magician/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674780106299	geckodriver	INFO	Listening on 127.0.0.1:48491
+1674780106691	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--window-size=1920,1200" "--enable-java ... pt" "--remote-debugging-port" "37179" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileORhAmw"
+*** You are running in headless mode.
+Gtk-Message: 01:41:46.729: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1674780107183	Marionette	INFO	Marionette enabled
+1674780107189	Marionette	INFO	Listening on port 43523
+Read port: 43523
+WebDriver BiDi listening on ws://127.0.0.1:37179
+1674780107366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileORhAmw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37179/devtools/browser/2bb7ede3-616f-4229-9f29-44e1bbd58cb3
+JavaScript warning: https://1stkissmanga.io/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 48: unreachable code after return statement
+JavaScript error: https://www.asurascans.com/manga/1672760368-talent-swallowing-magician/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 559 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-regressor-instruction-manual/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-legendary-youngest-son-of-the-marquis-house-manhwa/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-damn-reincarnation/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674780127214	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 6547 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-reaper-of-the-drifting-moon/, line 81: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 2456 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-my-daughter-is-a-dragon/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5941 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 3109 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-duke-pendragon/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-heavenly-inquisition-sword/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-existence/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/V3SsRWZOfA-pKEWNVYsb3GaVjAUiaK0X1iPK6a1PXlU.js line 2 > eval line 6724 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-youngest-scion-of-the-mages/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://z.moatads.com/unmglobalemiratesdcmdisplay764161013137/moatad.js#moatClientLevel1=4328588&moatClientLevel2=29162846&moatClientLevel3=356365982&moatClientLevel4=185172543&moatClientSlicer1=6910959&zMoatG=ct=FR&st=&city=5001&dma=0&zp=33170&bw=4&zMoatENV=j, line 239: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-genius-of-the-unique-lineage/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5008 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-tutorial-is-too-hard/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674780155011	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 3
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 7400 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-overpowered-sword/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5914 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-standard-of-reincarnation/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 1305 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-archmage-transcending-through-regression/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-i-obtained-a-mythic-item/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 2465 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-player-who-returned-10000-years-later/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-my-daughter-is-the-final-boss/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-hero-returns/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-swordmasters-youngest-son/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-on-my-way-to-kill-god/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-worthless-regression/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-transmigrating-to-the-otherworld-once-more/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-reformation-of-the-deadbeat-noble/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674780205259	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-ending-maker/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 3
+JavaScript error: https://www.asurascans.com/manga/1672760368-solo-max-level-newbie/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-greatest-estate-developer/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-kill-the-dragon/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-never-die-extra/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-villain-to-kill/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-max-level-hero-has-returned/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674780254721	geckodriver	INFO	Listening on 127.0.0.1:39121
+1674780255671	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--window-size=1920,1200" "--enable-java ... pt" "--remote-debugging-port" "46445" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBMZDlT"
+*** You are running in headless mode.
+Gtk-Message: 01:44:15.814: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1674780256596	Marionette	INFO	Marionette enabled
+1674780256604	Marionette	INFO	Listening on port 43155
+Read port: 43155
+WebDriver BiDi listening on ws://127.0.0.1:46445
+1674780256836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBMZDlT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46445/devtools/browser/ff888e02-e87e-4694-885d-a39a77f34fae
+JavaScript warning: https://1stkissmanga.io/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 48: unreachable code after return statement
+JavaScript error: https://www.asurascans.com/manga/1672760368-talent-swallowing-magician/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-regressor-instruction-manual/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674780271226	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.asurascans.com/manga/1672760368-legendary-youngest-son-of-the-marquis-house-manhwa/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-damn-reincarnation/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-reaper-of-the-drifting-moon/, line 81: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674780280270	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 4094 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-my-daughter-is-a-dragon/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-duke-pendragon/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-heavenly-inquisition-sword/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-existence/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 1613 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-youngest-scion-of-the-mages/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-genius-of-the-unique-lineage/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-tutorial-is-too-hard/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-overpowered-sword/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://www.asurascans.com/manga/1672760368-standard-of-reincarnation/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-archmage-transcending-through-regression/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-i-obtained-a-mythic-item/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-player-who-returned-10000-years-later/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674780312931	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.asurascans.com/manga/1672760368-my-daughter-is-the-final-boss/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-hero-returns/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: https://www.asurascans.com/manga/1672760368-swordmasters-youngest-son/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674780322980	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.asurascans.com/manga/1672760368-on-my-way-to-kill-god/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-worthless-regression/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-transmigrating-to-the-otherworld-once-more/, line 84: SyntaxError: invalid escape sequence
+1674780331002	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://www.asurascans.com/manga/1672760368-reformation-of-the-deadbeat-noble/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-ending-maker/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-solo-max-level-newbie/, line 83: SyntaxError: invalid escape sequence
+1674780336012	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-greatest-estate-developer/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-kill-the-dragon/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-never-die-extra/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674780342226	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://www.asurascans.com/manga/1672760368-villain-to-kill/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+1674780369902	geckodriver	INFO	Listening on 127.0.0.1:60925
+1674780370193	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--window-size=1920,1200" "--enable-javascript" "--remote-debugging-port" "53145" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOQy8Fz"
+Gtk-Message: 01:46:10.230: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1674780371481	Marionette	INFO	Marionette enabled
+1674780371488	Marionette	INFO	Listening on port 43919
+Read port: 43919
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:53145
+1674780371718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOQy8Fz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53145/devtools/browser/75ab5c06-a9e4-4568-ab76-3df48fb5d6d6
+JavaScript warning: https://1stkissmanga.io/wp-content/plugins/madara-core/assets/js/script.js?ver=1.6.3, line 48: unreachable code after return statement
+JavaScript error: https://www.asurascans.com/manga/1672760368-talent-swallowing-magician/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-regressor-instruction-manual/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-legendary-youngest-son-of-the-marquis-house-manhwa/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-damn-reincarnation/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-reaper-of-the-drifting-moon/, line 81: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-my-daughter-is-a-dragon/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-duke-pendragon/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-heavenly-inquisition-sword/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-existence/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-youngest-scion-of-the-mages/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-genius-of-the-unique-lineage/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 5642 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-tutorial-is-too-hard/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-overpowered-sword/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-standard-of-reincarnation/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-archmage-transcending-through-regression/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-i-obtained-a-mythic-item/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-player-who-returned-10000-years-later/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-my-daughter-is-the-final-boss/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-hero-returns/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 6671 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-swordmasters-youngest-son/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-on-my-way-to-kill-god/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-worthless-regression/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-transmigrating-to-the-otherworld-once-more/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-reformation-of-the-deadbeat-noble/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-ending-maker/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 2531 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.asurascans.com/manga/1672760368-solo-max-level-newbie/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-greatest-estate-developer/, line 84: SyntaxError: invalid escape sequence
+1674780476004	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-kill-the-dragon/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-never-die-extra/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674780481188	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674780481202	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674780481390	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674780481553	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.asurascans.com/manga/1672760368-villain-to-kill/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-max-level-hero-has-returned/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-return-of-the-8th-class-magician/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-absolute-sword-sense/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-return-of-the-mount-hua-sect/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-legend-of-asura-the-venom-dragon/, line 83: SyntaxError: invalid escape sequence
+1674780497114	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674780497513	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674780497589	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.asurascans.com/manga/1672760368-reincarnation-of-the-suicidal-battle-god/, line 86: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-trash-of-the-counts-family/, line 84: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-dark-magician-transmigrates-after-66666-years/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-second-coming-of-gluttony/, line 83: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674780506362	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674780506637	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674780506788	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674780507807	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.asurascans.com/manga/1672760368-the-time-of-the-terminally-ill-extra/, line 85: SyntaxError: invalid escape sequence
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674780512738	Marionette	INFO	Stopped listening on port 43919

@@ -1,0 +1,10 @@
+A program allowing you to create your manhua list and, with the update 
+function,it allows you to kwow if new chapters are released.
+
+I made it only for manhua on 1stkissmanga.io and asurascan.gg but you can
+adapt it to any other website!
+
+Everything will be displayed in the shell, there is no graphic interface.
+
+You must have firefox to execute this program.
+To use this program just run main.py
